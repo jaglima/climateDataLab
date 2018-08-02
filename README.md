@@ -1,4 +1,8 @@
-# climateDataLab
-Clima and Weather tools
+# Snippets miscelanea
+Here 
 
-Here are some tools I have been developing as auxiliary in my research in weather and forecasting works. Feel free to use and distribute!
+-- gera_table.sh: Shell bash script helping to create Latex code based in time series images 
+
+-- Python script focused in bach download ECMWF reanalysis 
+
+-- R code dealing with time series 
